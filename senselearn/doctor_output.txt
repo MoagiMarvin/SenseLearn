@@ -1,0 +1,55 @@
+﻿[ΓêÜ] Flutter (Channel stable, 3.29.3, on Microsoft Windows [Version 10.0.26200.7840], locale en-ZA) [530ms]
+    ΓÇó Flutter version 3.29.3 on channel stable at C:\Users\lenovo\flutter_windows_3.29.3-stable\flutter
+    ΓÇó Upstream repository https://github.com/flutter/flutter.git
+    ΓÇó Framework revision ea121f8859 (11 months ago), 2025-04-11 19:10:07 +0000
+    ΓÇó Engine revision cf56914b32
+    ΓÇó Dart version 3.7.2
+    ΓÇó DevTools version 2.42.3
+
+[ΓêÜ] Windows Version (11 Pro 64-bit, 25H2, 2009) [1,449ms]
+
+[ΓêÜ] Android toolchain - develop for Android devices (Android SDK version 36.0.0) [2.9s]
+    ΓÇó Android SDK at C:\Users\lenovo\AppData\Local\Android\Sdk
+    ΓÇó Platform android-36, build-tools 36.0.0
+    ΓÇó ANDROID_HOME = C:\Users\lenovo\AppData\Local\Android\Sdk
+    ΓÇó ANDROID_SDK_ROOT = C:\Users\lenovo\AppData\Local\Android\Sdk
+    ΓÇó Java binary at: C:\Program Files\Android\Android Studio1\jbr\bin\java
+      This is the JDK bundled with the latest Android Studio installation on this machine.
+      To manually set the JDK path, use: `flutter config --jdk-dir="path/to/jdk"`.
+    ΓÇó Java version OpenJDK Runtime Environment (build 21.0.9+-14787801-b1163.94)
+    ΓÇó All Android licenses accepted.
+
+[ΓêÜ] Chrome - develop for the web [277ms]
+    ΓÇó Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[!] Visual Studio - develop Windows apps (Visual Studio Community 2026 18.4.1) [276ms]
+    ΓÇó Visual Studio at C:\Program Files\Microsoft Visual Studio\18\Community
+    ΓÇó Visual Studio Community 2026 version 18.4.11612.150
+    ΓÇó Windows 10 SDK version 10.0.26100.0
+    X The current Visual Studio installation is incomplete.
+      Please use Visual Studio Installer to complete the installation or reinstall Visual Studio.
+
+[ΓêÜ] Android Studio (version 2025.3.2) [14ms]
+    ΓÇó Android Studio at C:\Program Files\Android\Android Studio1
+    ΓÇó Flutter plugin can be installed from:
+       https://plugins.jetbrains.com/plugin/9212-flutter
+    ΓÇó Dart plugin can be installed from:
+       https://plugins.jetbrains.com/plugin/6351-dart
+    ΓÇó android-studio-dir = C:\Program Files\Android\Android Studio1
+    ΓÇó Java version OpenJDK Runtime Environment (build 21.0.9+-14787801-b1163.94)
+
+[ΓêÜ] VS Code (version unknown) [13ms]
+    ΓÇó VS Code at C:\Users\lenovo\AppData\Local\Programs\Microsoft VS Code
+    ΓÇó Flutter extension version 3.130.0
+    X Unable to determine VS Code version.
+
+[ΓêÜ] Connected device (4 available) [389ms]
+    ΓÇó SM X216B (mobile) ΓÇó R9TWB0AEFML ΓÇó android-arm64  ΓÇó Android 13 (API 33)
+    ΓÇó Windows (desktop) ΓÇó windows     ΓÇó windows-x64    ΓÇó Microsoft Windows [Version 10.0.26200.7840]
+    ΓÇó Chrome (web)      ΓÇó chrome      ΓÇó web-javascript ΓÇó Google Chrome 146.0.7680.80
+    ΓÇó Edge (web)        ΓÇó edge        ΓÇó web-javascript ΓÇó Microsoft Edge 146.0.3856.62
+
+[ΓêÜ] Network resources [712ms]
+    ΓÇó All expected network resources are available.
+
+! Doctor found issues in 1 category.
